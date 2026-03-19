@@ -82,7 +82,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -187,12 +187,12 @@ TextureImporter:
       name: personagem_0
       rect:
         serializedVersion: 2
-        x: 141
-        y: 178
-        width: 49
-        height: 58
+        x: 142
+        y: 179
+        width: 47
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -209,12 +209,12 @@ TextureImporter:
       name: personagem_1
       rect:
         serializedVersion: 2
-        x: 189
-        y: 178
-        width: 50
-        height: 57
+        x: 190
+        y: 179
+        width: 48
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -231,12 +231,12 @@ TextureImporter:
       name: personagem_2
       rect:
         serializedVersion: 2
-        x: 238
-        y: 178
-        width: 49
-        height: 58
+        x: 239
+        y: 179
+        width: 47
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -253,12 +253,12 @@ TextureImporter:
       name: personagem_3
       rect:
         serializedVersion: 2
-        x: 288
-        y: 178
-        width: 48
-        height: 59
+        x: 289
+        y: 179
+        width: 46
+        height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -275,12 +275,12 @@ TextureImporter:
       name: personagem_4
       rect:
         serializedVersion: 2
-        x: 33
-        y: 105
-        width: 48
-        height: 58
+        x: 34
+        y: 106
+        width: 46
+        height: 56
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -297,12 +297,12 @@ TextureImporter:
       name: personagem_5
       rect:
         serializedVersion: 2
-        x: 85
-        y: 106
-        width: 61
-        height: 56
+        x: 86
+        y: 107
+        width: 59
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -319,12 +319,12 @@ TextureImporter:
       name: personagem_6
       rect:
         serializedVersion: 2
-        x: 152
-        y: 104
-        width: 50
-        height: 54
+        x: 153
+        y: 105
+        width: 48
+        height: 52
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -341,12 +341,12 @@ TextureImporter:
       name: personagem_7
       rect:
         serializedVersion: 2
-        x: 206
-        y: 104
-        width: 47
-        height: 53
+        x: 207
+        y: 105
+        width: 45
+        height: 51
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -363,12 +363,12 @@ TextureImporter:
       name: personagem_8
       rect:
         serializedVersion: 2
-        x: 254
-        y: 104
-        width: 45
-        height: 55
+        x: 255
+        y: 105
+        width: 43
+        height: 53
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -385,12 +385,12 @@ TextureImporter:
       name: personagem_9
       rect:
         serializedVersion: 2
-        x: 303
-        y: 106
-        width: 60
-        height: 56
+        x: 304
+        y: 107
+        width: 58
+        height: 54
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -407,12 +407,12 @@ TextureImporter:
       name: personagem_10
       rect:
         serializedVersion: 2
-        x: 366
-        y: 104
-        width: 52
-        height: 54
+        x: 367
+        y: 105
+        width: 50
+        height: 52
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -429,12 +429,12 @@ TextureImporter:
       name: personagem_11
       rect:
         serializedVersion: 2
-        x: 421
-        y: 104
-        width: 45
-        height: 57
+        x: 422
+        y: 105
+        width: 43
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -451,12 +451,12 @@ TextureImporter:
       name: personagem_12
       rect:
         serializedVersion: 2
-        x: 127
-        y: 19
-        width: 53
-        height: 68
+        x: 128
+        y: 20
+        width: 50
+        height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -473,12 +473,12 @@ TextureImporter:
       name: personagem_13
       rect:
         serializedVersion: 2
-        x: 177
-        y: 19
-        width: 57
-        height: 65
+        x: 179
+        y: 20
+        width: 54
+        height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -495,12 +495,12 @@ TextureImporter:
       name: personagem_14
       rect:
         serializedVersion: 2
-        x: 235
-        y: 19
-        width: 59
-        height: 65
+        x: 236
+        y: 20
+        width: 57
+        height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -517,12 +517,12 @@ TextureImporter:
       name: personagem_15
       rect:
         serializedVersion: 2
-        x: 293
-        y: 19
-        width: 59
-        height: 67
+        x: 294
+        y: 20
+        width: 57
+        height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -539,7 +539,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 042f4b56e39b06d4f8a58210acb90078
     internalID: 0
     vertices: []
     indices: 
@@ -547,7 +547,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       personagem_0: 2338503842691769198
       personagem_1: 5647827904626956368
