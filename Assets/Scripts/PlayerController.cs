@@ -11,11 +11,13 @@ public class PlayerController : MonoBehaviour
 
     Rigidbody2D rb;
     SpriteRenderer sr;
+    Animator anim;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
+        anim = GetComponent<Animator>();
     }
    
     void Update()
@@ -24,6 +26,7 @@ public class PlayerController : MonoBehaviour
         Jump();
         Orientation();
         OnFloor();
+        SetAnim();
     }
 
      public void Move()
@@ -58,5 +61,10 @@ public class PlayerController : MonoBehaviour
         onFloor = Physics2D.Linecast(transform.position, floorSensor.position, 1 << LayerMask.NameToLayer("Floor"));
 
         print(onFloor);
+    }
+
+    public void SetAnim()
+    {
+        anim.SetFloat("walk", Mathf.Abs(Input.GetAxisRaw("Horizontal")));
     }
 }
